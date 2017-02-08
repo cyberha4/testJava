@@ -11,7 +11,7 @@ public class Test {
     public static void main(String[] args) {
         CarNew car = new CarNew(100, "Kia-ceed", "1000000");
         CarNew car2 = new CarNew(200, "Kia-rio", "500000");
-        CarNew car3 = new CarNew(200, "Kia-rio2", "5000002");
+        CarNew car3 = new CarNew(200, "Kia-rio3", "5000002");
         System.out.println(car);
         cars.add(car);
         cars.add(car2);
